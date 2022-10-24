@@ -1,0 +1,14 @@
+.home-bg {
+    background-image: url(../../Assets/homeBg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 90vh;
+    width: 100%;
+}
+
+.bg-overlay {
+    background-color: rgba(0, 0, 0, 0.5);
+    height: 90vh;
+    width: 100%;
+}
